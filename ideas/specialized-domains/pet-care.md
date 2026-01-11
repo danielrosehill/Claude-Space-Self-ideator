@@ -1,3 +1,11 @@
+---
+name: "Pet Care"
+category: "specialized-domains"
+description: "Comprehensive pet care management with health records and behavior tracking"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Pet Care
 
 ## Use Case

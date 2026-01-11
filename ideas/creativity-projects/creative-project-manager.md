@@ -1,3 +1,11 @@
+---
+name: "Creative Project Manager"
+category: "creativity-projects"
+description: "Manage creative projects with ideation, iteration tracking, and feedback integration"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Creative Project Manager
 
 ## Use Case

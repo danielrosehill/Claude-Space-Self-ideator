@@ -1,3 +1,11 @@
+---
+name: "Meeting Maximizer"
+category: "professional-career"
+description: "Prepare for meetings, capture outcomes, and track action items"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Meeting Maximizer
 
 ## Use Case

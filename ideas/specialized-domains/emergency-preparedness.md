@@ -1,3 +1,11 @@
+---
+name: "Emergency Preparedness"
+category: "specialized-domains"
+description: "Household emergency preparedness with supplies inventory and emergency plans"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Emergency Preparedness
 
 ## Use Case

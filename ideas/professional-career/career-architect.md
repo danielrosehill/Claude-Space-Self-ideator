@@ -1,3 +1,11 @@
+---
+name: "Career Architect"
+category: "professional-career"
+description: "Long-term career planning with opportunity evaluation and skill gap analysis"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Career Architect
 
 ## Use Case

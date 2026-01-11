@@ -8,11 +8,27 @@ This repository serves as an ideation space for Claude Space concepts. It contai
 - Documentation on the Claude Space pattern itself
 - Guidance on agent portability
 
+## The Core Concept
+
+See [the-idea.md](the-idea.md) for the author's explanation of the Claude Space pattern and why it works.
+
+**Key insight**: A Claude Space views the repository as a miniaturized version of what can otherwise only be achieved with complicated agentic systems. By using folder structure as context boundaries and Markdown files as lightweight RAG, complex AI workflows become accessible without databases, embeddings, or infrastructure.
+
+The pattern works equally well for systems administration, code generation, or entirely non-coding projects—the simple mechanism of a repository plus Git's version control provides an instructive model for workflow management with applications far beyond software development.
+
 ## Idea Document Format
 
 When creating new Claude Space ideas in the `ideas/` folder, use this template:
 
 ```markdown
+---
+name: "[Space Name]"
+category: "[Category from folder name, e.g., personal-development]"
+description: "[One-line description of what this space does]"
+duration: "[ongoing | time-limited]"
+difficulty: "[easy | medium | hard]"
+---
+
 # [Space Name]
 
 ## Use Case
@@ -62,6 +78,20 @@ When creating new Claude Space ideas in the `ideas/` folder, use this template:
 
 [2-3 bullet points on what makes this domain suitable for the Claude Space pattern]
 ```
+
+### Front Matter Fields
+
+| Field | Required | Values | Description |
+|-------|----------|--------|-------------|
+| `name` | Yes | String | Display name of the Claude Space |
+| `category` | Yes | String | Category folder name (e.g., `personal-development`) |
+| `description` | Yes | String | One-line summary of the space's purpose |
+| `duration` | Yes | `ongoing` or `time-limited` | Whether this space is for continuous use or a bounded project |
+| `difficulty` | Yes | `easy`, `medium`, or `hard` | Implementation complexity (lowercase) |
+
+**Duration Types:**
+- **ongoing**: Repositories designed for continuous, indefinite use (e.g., habit tracking, journal, health management)
+- **time-limited**: Repositories for bounded projects with a clear endpoint (e.g., event planning, book writing, course completion)
 
 ## Folder Organization
 

@@ -1,3 +1,11 @@
+---
+name: "Garden Intelligence"
+category: "specialized-domains"
+description: "Garden planning, plant care tracking, and harvest optimization"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Garden Intelligence
 
 ## Use Case

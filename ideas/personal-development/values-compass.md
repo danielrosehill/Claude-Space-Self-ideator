@@ -1,3 +1,11 @@
+---
+name: "Values Compass"
+category: "personal-development"
+description: "Clarify and operationalize personal values for decision-making"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Values Compass
 
 ## Use Case

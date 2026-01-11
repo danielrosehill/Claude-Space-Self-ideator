@@ -1,3 +1,11 @@
+---
+name: "Learning Lab"
+category: "learning-skills"
+description: "Structured self-directed learning with spaced repetition and comprehension testing"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Learning Lab
 
 ## Use Case

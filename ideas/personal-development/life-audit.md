@@ -1,3 +1,11 @@
+---
+name: "Life Audit"
+category: "personal-development"
+description: "Periodic comprehensive review of all life domains"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Life Audit
 
 ## Use Case

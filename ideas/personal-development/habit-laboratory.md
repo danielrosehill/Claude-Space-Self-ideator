@@ -1,3 +1,11 @@
+---
+name: "Habit Laboratory"
+category: "personal-development"
+description: "Systematic habit formation using behavioral science principles"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Habit Laboratory
 
 ## Use Case

@@ -1,3 +1,11 @@
+---
+name: "Home Operations"
+category: "home-life-management"
+description: "Manage household maintenance, vendors, and improvement projects"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Home Operations
 
 ## Use Case

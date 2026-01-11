@@ -1,3 +1,11 @@
+---
+name: "Travel Planner"
+category: "specialized-domains"
+description: "Comprehensive trip planning from research through execution and memory capture"
+duration: "time-limited"
+difficulty: "medium"
+---
+
 # Travel Planner
 
 ## Use Case

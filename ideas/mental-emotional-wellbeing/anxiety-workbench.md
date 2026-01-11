@@ -1,3 +1,11 @@
+---
+name: "Anxiety Workbench"
+category: "mental-emotional-wellbeing"
+description: "Structured anxiety management using CBT techniques"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Anxiety Workbench
 
 ## Use Case

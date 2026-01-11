@@ -1,3 +1,11 @@
+---
+name: "Meal Intelligence"
+category: "home-life-management"
+description: "Meal planning, recipe management, and grocery optimization"
+duration: "ongoing"
+difficulty: "medium"
+---
+
 # Meal Intelligence
 
 ## Use Case

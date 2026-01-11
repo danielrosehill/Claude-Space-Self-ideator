@@ -1,3 +1,11 @@
+---
+name: "Skill Tracker"
+category: "learning-skills"
+description: "Track skill development with deliberate practice planning"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Skill Tracker
 
 ## Use Case

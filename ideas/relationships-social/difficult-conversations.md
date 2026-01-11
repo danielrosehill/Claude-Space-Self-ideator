@@ -1,3 +1,11 @@
+---
+name: "Difficult Conversations"
+category: "relationships-social"
+description: "Prepare for challenging conversations with structured thinking"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Difficult Conversations
 
 ## Use Case

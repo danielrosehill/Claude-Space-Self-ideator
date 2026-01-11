@@ -1,3 +1,11 @@
+---
+name: "Idea Incubator"
+category: "creativity-projects"
+description: "Capture, develop, and cross-pollinate ideas across domains"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Idea Incubator
 
 ## Use Case

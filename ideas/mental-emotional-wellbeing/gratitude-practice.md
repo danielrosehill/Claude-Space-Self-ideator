@@ -1,3 +1,11 @@
+---
+name: "Gratitude Practice"
+category: "mental-emotional-wellbeing"
+description: "Structured gratitude practice with variety, depth, and pattern recognition"
+duration: "ongoing"
+difficulty: "easy"
+---
+
 # Gratitude Practice
 
 ## Use Case
